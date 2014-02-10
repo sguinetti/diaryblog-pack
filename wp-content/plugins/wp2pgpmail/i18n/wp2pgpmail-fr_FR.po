@@ -1,0 +1,228 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp2pgpmail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-01-14 15:32+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: wp2pgpmail <translation@wp2pgpmail.com>\n"
+"Language-Team: wp2pgpmail <contact@wp2pgpmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: J:\\Internet\\wp2pgpmail\\wp_repository\\trunk\n"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:43
+msgid "Encrypted PGP Message"
+msgstr "Message PGP sécurisé"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:47
+msgid "Form successfully submitted! The encrypted message has been sent."
+msgstr ""
+"Formulaire soumis avec succès ! Le message crypté a été correctement envoyé."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:49
+msgid ""
+"The image verification code you entered is incorrect. No message has been "
+"sent."
+msgstr ""
+"Le code de l'image de contrôle que vous avez saisi est incorrect. Aucun "
+"message n'a été transmis."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:49
+msgid "Please try again."
+msgstr "Merci d'essayer à nouveau."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:61
+msgid "No valid public PGP key has been entered yet."
+msgstr "Aucune clé publique PGP n'a encore été saisie."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:63
+msgid "Your PGP public key has been entered correctly."
+msgstr "Votre clé publique PGP a été correctement saisie."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:113
+msgid "Getting Started"
+msgstr "Mise en route"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:115
+msgid "Enter your PGP public key in the field below on this page."
+msgstr ""
+"Saisissez votre clé publique PGP sur cette page dans le champ ci-dessous."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:116
+msgid ""
+"Add the shortcode <b>[wp2pgpmail]</b> to any Post or Page to display the "
+"contact form."
+msgstr ""
+"Insérez le shortcode <b>[wp2pgpmail]</b> dans n'importe quel article ou "
+"n'importe quelle page pour afficher le formulaire de contact."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:119
+msgid "Help Promote wp2pgpmail"
+msgstr "Contribuez avec wp2pgpmail"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:121
+msgid ""
+"Get wp2pgpmail Pro version with Additional Fields, Unlimited Forms, Nested "
+"Drag n' Drop and Advanced Email Configuration!"
+msgstr ""
+"Obtenez la version Pro de wp2pgpmail et bénéficiez des champs "
+"supplémentaires, un nombre de formulaire illimité, une interface intuitive "
+"et une configuration avancée des e-mails."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:122
+msgid "Follow us on Twitter"
+msgstr "Suivez-nous sur Twitter"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:123
+msgid "Rate wp2pgpmail on WordPress.org"
+msgstr "Notez wp2pgpmail sur WordPress.org"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:126
+msgid "PGP Key Setup"
+msgstr "Paramétrage de la clé PGP"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:127
+msgid ""
+"Paste your PGP public key in the first field below. By validating, your key "
+"will be recognized and the other fields will be automatically filled."
+msgstr ""
+"Collez votre clé publique PGP dans le premier champ ci-dessous. En validant, "
+"votre clé sera reconnue et les autres champs seront automatiquement remplis."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:142
+msgid "Version:"
+msgstr "Version :"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:146
+msgid "User ID:"
+msgstr "Identification de l'utilisateur :"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:150
+msgid "Key ID:"
+msgstr "Identification de la clé :"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:154
+msgid "Public Key type and values:"
+msgstr "Détails de la clé :"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:174
+msgid "Captcha field"
+msgstr "Champ Captcha"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:175
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:179
+msgid "Yes"
+msgstr "Oui"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:176
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:180
+msgid "No"
+msgstr "Non"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:178
+msgid "Collect IP address"
+msgstr "Collecter l'adresse IP"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:182
+msgid "Save Changes"
+msgstr "Enregistrer les modifications"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:186
+msgid "Need help?"
+msgstr "Besoin d'aide ?"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:188
+msgid "Infomation about PGP from wp2pgpmail"
+msgstr "Informations au sujet de PGP à partir du site wp2pgpmail"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:189
+msgid "wp2pgpmail FAQ"
+msgstr "FAQ wp2pgpmail"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:190
+msgid "wp2pgpmail Support Ticket System"
+msgstr "Assistance wp2pgpmail"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/wp2pgpmail.php:191
+msgid "wp2pgpmail Forums"
+msgstr "Forum wp2pgpmail"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:14
+msgid "Name"
+msgstr "Nom"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:15
+msgid "E-mail Address"
+msgstr "Adresse E-mail"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:16
+msgid "Message"
+msgstr "Message"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:17
+msgid "IP Address"
+msgstr "Adresse IP"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:18
+msgid "This message has been sent from your website"
+msgstr "Ce message a été envoyé à partir de la page de votre site"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:18
+msgid "and has been encrypted using wp2pgpmail."
+msgstr "et a été crypté grâce au plugin wp2pgpmail."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:20
+msgid ""
+"A field has not been completed. Thank you to complete in order to validate "
+"the form."
+msgstr "Un des champs n'a pas été rempli. Merci de le compléter."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:21
+msgid "The email address you typed is incorrect."
+msgstr "L'adresse e-mail saisie est incorrecte."
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:22
+msgid "encrypted data"
+msgstr "contenu crypté"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:25
+msgid "Your Name"
+msgstr "Votre nom"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:26
+msgid "Your E-mail Address"
+msgstr "Votre adresse e-mail"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:27
+msgid "Your Message"
+msgstr "Votre message"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:28
+msgid "Encrypt Message"
+msgstr "Crypter le message"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:29
+msgid "Reset"
+msgstr "Effacer"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:30
+msgid "Reload image"
+msgstr "Recharger une nouvelle image"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:31
+msgid "Type the word:"
+msgstr "Saisir le mot :"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:32
+msgid "Send"
+msgstr "Envoyer"
+
+#: J:\Internet\wp2pgpmail\wp_repository\trunk/classes/formulaire.inc.php:35
+msgid "DATA NOT COLLECTED BY POLICY"
+msgstr "DONNEE NON COLLECTEE"
