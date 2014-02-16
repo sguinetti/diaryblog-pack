@@ -10,7 +10,7 @@ jQuery(document).ready(function($) {
 		cnLater.setTime(parseInt(cnTime.getTime()) + parseInt(cnArgs.cookieTime) * 1000);
 
 		//set cookie
-		document.cookie = cnArgs.cookieName+"="+escape(cnArgs.cookieValue)+";expires="+cnLater.toGMTString()+';domain='+cnArgs.cookieDomain+';path='+cnArgs.cookiePath;
+		document.cookie = cnArgs.cookieName+'=true'+';expires='+cnLater.toGMTString()+';'+(cnArgs.cookieDomain !== undefined && cnArgs.cookieDomain !== '' ? 'domain='+cnArgs.cookieDomain+';' : '')+(cnArgs.cookiePath !== undefined && cnArgs.cookiePath !== '' ? 'path='+cnArgs.cookiePath+';' : '');
 
 		//hide box
 		if(cnArgs.hideEffect === 'fade') {
