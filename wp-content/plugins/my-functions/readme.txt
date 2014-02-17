@@ -33,7 +33,6 @@ Yes, but keep in mind that if you modify the additional functionality will have 
 
 No. For those who do not know, a theme file "functions" that helps change the characteristics by using a certain theme wordpress. This is advisable to keep the plugin in future updates them disappear and trying again.
 
-
 = What plugins have extracted for "my funtcions" file? =
 Hotlink Protection by Christopher Ross (http://thisismyurl.com/plugins/hotlink-protection/)
 License: GPL
