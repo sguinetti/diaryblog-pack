@@ -1,0 +1,137 @@
+# 
+# Translators:
+# Rivo Zängov <eraser@eraser.ee>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp2pgpmail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-02 17:26+0100\n"
+"PO-Revision-Date: 2012-02-22 15:14+0100\n"
+"Last-Translator: Jériel BELAÏCH\n"
+"Language-Team: Estonian (http://www.transifex.net/projects/p/wp2pgpmail/language/et/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk\n"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:47
+msgid "Form successfully submitted! The encrypted message has been sent."
+msgstr "Vorm on saadetud! Krüpteeritud sõnum on saadetud."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:49
+msgid "Encrypted PGP Message"
+msgstr "Krüpteeritud PGP sõnum"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:56
+msgid "The image verification code you entered is incorrect. No message has been sent."
+msgstr "Sinu poolt sisestatud pildi kinnituskood on vale. Sõnumit pole veel saadetud."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:57
+msgid "Please try again."
+msgstr "Palun proovi uuesti."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:92
+msgid "A field has not been completed. Thank you to complete in order to validate the form."
+msgstr "Väli pole täidetud. Palun täida vorm."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:98
+msgid "The email address you typed is incorrect."
+msgstr "Sisestatud e-posti aadress on vigane."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:105
+msgid "Name"
+msgstr "Nimi"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:105
+msgid "E-mail Address"
+msgstr "E-posti aadress"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:105
+msgid "Message"
+msgstr "Sõnum"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:106
+msgid "IP Address"
+msgstr "IP aadress"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:107
+msgid "This message has been sent from your website"
+msgstr "Sinu veebilehelt saadeti sulle sõnum"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:107
+msgid "and has been encrypted using wp2pgpmail."
+msgstr "ja see on krüpteeritud kasutades wp2pgpmail."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:134
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:135
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:136
+msgid "encrypted data"
+msgstr "krüpteeritud andmed"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:153
+msgid "Your Name"
+msgstr "Sinu nimi"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:157
+msgid "Your E-mail Address"
+msgstr "Sinu e-posti aadress"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:161
+msgid "Your Message"
+msgstr "Sinu sõnum"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:170
+msgid "Encrypt Message"
+msgstr "Krüpteeri sõnum"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:171
+msgid "Reset"
+msgstr "Tühjenda lahtrid"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:175
+msgid "Reload image"
+msgstr "Lae pilt uuesti"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:176
+msgid "Type the word:"
+msgstr "Kirjuta sõna:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:178
+msgid "Send"
+msgstr "aada"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:207
+msgid "No valid public PGP key has been entered yet."
+msgstr "Kehtivat avalikku PGP võtit pole veel sisestatud."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:209
+msgid "Your PGP public key has been entered correctly."
+msgstr "Sinu avalik PGP võti on korrektne."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:272
+msgid "Version:"
+msgstr "Versioon:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:276
+msgid "User ID:"
+msgstr "Kasutaja ID:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:280
+msgid "Key ID:"
+msgstr "Võtme ID:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:284
+msgid "Public Key type and values:"
+msgstr "Avaliku võtme tüüp ja väärtused:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:305
+msgid "Save Changes"
+msgstr "Salvesta muudatused"
+

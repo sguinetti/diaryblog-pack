@@ -5,22 +5,22 @@ DiaryBlog is a prototype made with the Wordpress CMS that is used in the realiza
 CAUTION: This is used as a testing ground, though, you can use applications normally without spies or anything like.
 
 ##Description
-*This is a custom wordpress instalation
-*Has about 20 plugins, including one for modification to code.
-*It has almost the same features, most easily accessible.
+* This is a custom wordpress instalation
+* Has about 20 plugins, including one for modification to code.
+* It has almost the same features, most easily accessible.
 
 ##Requirements
-*20-40MB RAM.
-*40MB disk space (your files not inclued).
-*PHP 5.4 recommend in Apache or similar server.
-*MySQL o MariaDB installed.
+* 20-40MB RAM recommend.
+* 40MB disk space (your files not inclued).
+* PHP 5.4 or more in Apache or similar server.
+* MySQL o MariaDB installed.
 
 
 ##Instalation
-*Download, unzip the files and move with FTP aplication.
-*Install, follow the instructions (the famous 5-minute installation), or
-*Use the precooked version (is included and requires more steps) you can do it from the "wp-prolife" folder.
-*Is not English or Spanish speaker, [review the instructions](http://codex.wordpress.org/Installing_WordPress_in_Your_Language).
+* Download, unzip the files and move with FTP aplication.
+* Install, follow the instructions (the famous 5-minute installation), or
+* Use the precooked version (is included and requires more steps) you can do it from the "wp-prolife" folder.
+* Is not English or Spanish speaker, [review the instructions](http://codex.wordpress.org/Installing_WordPress_in_Your_Language).
 
 ##FAQ
 ###How I can make it rather a hybrid of public and private diary is just a private diary?
@@ -49,6 +49,6 @@ The link looks like this: http://localhost/wordpress/wp-admin/plugins.php
 The idea of this prototype is to study and improve it as a "tool commonly used" as well as avoid any dirty trick when installing.
 
 ##License and acknowledgment
-*[Mozilla Public License 2.0 or later](http://www.mozilla.org/MPL/)
-*[GNU General Public License 2.0 or later](http://www.gnu.org/)
-*Incuye other licenses specified in the "plugins" folder and "themes".
+* [Mozilla Public License 2.0 or later](http://www.mozilla.org/MPL/)
+* [GNU General Public License 2.0 or later](http://www.gnu.org/)
+* Incuye other licenses specified in the "plugins" folder and "themes".

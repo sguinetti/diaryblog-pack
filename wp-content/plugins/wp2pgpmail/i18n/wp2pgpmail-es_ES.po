@@ -1,0 +1,132 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp2pgpmail 1.03\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-02 17:26+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: José Juan González <j_arquimbau@yahoo.es>\n"
+"Language-Team: Jeriel BELAICH <jeriel@belai.ch>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk\n"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:47
+msgid "Form successfully submitted! The encrypted message has been sent."
+msgstr "¡Mensaje cifrado enviado correctamente!"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:49
+msgid "Encrypted PGP Message"
+msgstr "Mensaje PGP cifrado"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:56
+msgid "The image verification code you entered is incorrect. No message has been sent."
+msgstr "El código de verificación de imagen que ha introducido no es correcto. No se ha enviado el mensaje."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:57
+msgid "Please try again."
+msgstr "Por favor, pruebe de nuevo."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:92
+msgid "A field has not been completed. Thank you to complete in order to validate the form."
+msgstr "Un campo no ha sido rellenado. Rellénelo para poder enviar el mensaje."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:98
+msgid "The email address you typed is incorrect."
+msgstr "La dirección email facilitada es incorrecta."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:105
+msgid "Name"
+msgstr "Nombre"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:105
+msgid "E-mail Address"
+msgstr "Dirección de correo electrónico"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:105
+msgid "Message"
+msgstr "Mensaje"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:106
+msgid "IP Address"
+msgstr "Dirección IP"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:107
+msgid "This message has been sent from your website"
+msgstr "Este mensaje ha sido enviado desde tu página web"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:107
+msgid "and has been encrypted using wp2pgpmail."
+msgstr "y ha sido cifrado empleando wp2pgpmail."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:134
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:135
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:136
+msgid "encrypted data"
+msgstr "Información cifrada"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:153
+msgid "Your Name"
+msgstr "Su nombre"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:157
+msgid "Your E-mail Address"
+msgstr "Su dirección email"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:161
+msgid "Your Message"
+msgstr "Su mensaje"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:170
+msgid "Encrypt Message"
+msgstr "Cifrar mensaje"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:171
+msgid "Reset"
+msgstr "Reiniciar"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:175
+msgid "Reload image"
+msgstr "Recargar imagen"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:176
+msgid "Type the word:"
+msgstr "Teclee la palabra:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:178
+msgid "Send"
+msgstr "Enviar"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:207
+msgid "No valid public PGP key has been entered yet."
+msgstr "No se ha introducido una clave PGP válida todavía."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:209
+msgid "Your PGP public key has been entered correctly."
+msgstr "Su clave pública PGP se ha introducido correctamente."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:272
+msgid "Version:"
+msgstr "Versión:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:276
+msgid "User ID:"
+msgstr "ID Usuario:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:280
+msgid "Key ID:"
+msgstr "ID Clave:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:284
+msgid "Public Key type and values:"
+msgstr "Tipo de clave pública y valores:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:305
+msgid "Save Changes"
+msgstr "Guardar cambios"
+

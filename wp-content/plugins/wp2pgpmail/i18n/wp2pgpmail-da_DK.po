@@ -1,0 +1,142 @@
+#
+# Translators:
+# Rivo Zängov <eraser@eraser.ee>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: wp2pgpmail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-08-02 17:26+0100\n"
+"PO-Revision-Date: 2013-10-07 00:28+0100\n"
+"Last-Translator: Daniel Carlsen <daniel.carlsen@danskernesparti.dk>\n"
+"Language-Team: Estonian (http://www.transifex.net/projects/p/wp2pgpmail/"
+"language/et/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: et\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SearchPath-0: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk\n"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:47
+msgid "Form successfully submitted! The encrypted message has been sent."
+msgstr "Den krypterede besked er blevet sendt."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:49
+msgid "Encrypted PGP Message"
+msgstr "Krypteret PGP-besked"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:56
+msgid ""
+"The image verification code you entered is incorrect. No message has been "
+"sent."
+msgstr ""
+"Billedverifikationskoden, som du har indtastet er forkert. Din besked er "
+"ikke blevet sendt."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:57
+msgid "Please try again."
+msgstr "Prøv venligst igen."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:92
+msgid ""
+"A field has not been completed. Thank you to complete in order to validate "
+"the form."
+msgstr "Et felt er ikke blevet udfyldt. Udfyld det venligst."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:98
+msgid "The email address you typed is incorrect."
+msgstr "E-postadressen, som du har indtastet, er forkert."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:105
+msgid "Name"
+msgstr "Navn"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:105
+msgid "E-mail Address"
+msgstr "E-postadresse"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:105
+msgid "Message"
+msgstr "Besked"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:106
+msgid "IP Address"
+msgstr "IP-adresse"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:107
+msgid "This message has been sent from your website"
+msgstr "Denne besked er blevet sendt fra din hjemmeside"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:107
+msgid "and has been encrypted using wp2pgpmail."
+msgstr "og er blevet krypteret med wp2pgpmail."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:134
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:135
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:136
+msgid "encrypted data"
+msgstr "krypteret data"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:153
+msgid "Your Name"
+msgstr "Dit navn"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:157
+msgid "Your E-mail Address"
+msgstr "Din e-postadresse"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:161
+msgid "Your Message"
+msgstr "Din besked"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:170
+msgid "Encrypt Message"
+msgstr "Krypter besked"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:171
+msgid "Reset"
+msgstr "Nulstil"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:175
+msgid "Reload image"
+msgstr "Genindlæs billede"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:176
+msgid "Type the word:"
+msgstr "Indtast ordet:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:178
+msgid "Send"
+msgstr "Send"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:207
+msgid "No valid public PGP key has been entered yet."
+msgstr "Ingen gyldig offentlig PGP-nøgle er blevet indtastet endnu."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:209
+msgid "Your PGP public key has been entered correctly."
+msgstr "Din offentlige PGP-nøgle er blevet indtastet korrekt."
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:272
+msgid "Version:"
+msgstr "Version:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:276
+msgid "User ID:"
+msgstr "Bruger-ID:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:280
+msgid "Key ID:"
+msgstr "Nøgle-ID:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:284
+msgid "Public Key type and values:"
+msgstr "Offentlig nøgle-type og værdier:"
+
+#: /home/jeriel/Internet/wp2pgpmail/wp_repository/trunk/wp2pgpmail.php:305
+msgid "Save Changes"
+msgstr "Gem ændringer"
