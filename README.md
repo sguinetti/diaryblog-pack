@@ -48,6 +48,35 @@ The link looks like this: http://localhost/wordpress/wp-admin/plugins.php
 ###Why are uncompressed files?
 The idea of this prototype is to study and improve it as a "tool commonly used" as well as avoid any dirty trick when installing.
 
+### What is PGP Encryption?
+The GPG (GNU Privacy Guard) is an open source system to encrypt information using an email linked to your key. It consists of two files: one to encrypt and that is public (for a plugin must be configured in the options) and other private user who only knows and is reinforced with a password.
+
+See [demo page](https://wp2pgpmail.com/pgp-key-generator/) .
+
+
+###I am installing DiaryBlog with precooked version, what should I do if there are problems once migrated files?
+Try to modify the database using PhpMyAdmin. From the "SQL" tab, then select on the side of the database "agendablog" type the following commands (in orden of numbers):
+
+//1
+UPDATE wp_options
+SET option_value = REPLACE(option_value,'old_domain','new_domain');
+//2
+UPDATE wp_posts
+SET post_content = REPLACE(post_content,'old_domain','new_domain');
+//3
+UPDATE wp_posts
+SET guid = REPLACE(guid,'old_domain','new_domain');
+//4
+UPDATE wp_postmeta
+SET meta_value = REPLACE(meta_value,'old_domain','new_domain');
+
+If you are using the prefix "wp_" You can replace other prefix if it came an bug. The same can happen with the database (unless you have not configured).
+
+Sources:http://es.forums.wordpress.org/topic/problema-con-wordpress-recien-instalado http://marioguzman.net/como-migrar-un-wordpress-de-dominio/
+
+###How I can move to another site without risk to crash?
+Continuing with the previous question, the only way to move to another place without suffering problems of access or the like is to disable the security plugin. Once deactivated, makY a copy of the data stored in the database (you can use phpMyAdmin selecting "Agendaword" and follow the instructions).
+
 ##License and acknowledgment
 * [Mozilla Public License 2.0 or later](http://www.mozilla.org/MPL/)
 * [GNU General Public License 2.0 or later](http://www.gnu.org/)
